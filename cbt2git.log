@@ -1,0 +1,3 @@
+2025-04-04 08:53:18.090652 - Received CBT.V508.FILE384.PDS from FILE384.XMI 
+2025-04-04 08:53:18.091258 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE384.PDS, moved to PDS/$$$#DATE
+2025-04-04 08:53:18.091416 - Found @FILE384.txt (text/plain) in CBT.V508.FILE384.PDS, moved to PDS/@FILE384
